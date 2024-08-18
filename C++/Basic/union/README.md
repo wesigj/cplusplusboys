@@ -1,5 +1,12 @@
 # C++面试基础系列-union
 
+- [C++面试基础系列-union](#c面试基础系列-union)
+  - [1.union含义](#1union含义)
+  - [2.union的关键点1](#2union的关键点1)
+  - [3.union的关键点2](#3union的关键点2)
+  - [4.union与struct的区别](#4union与struct的区别)
+  - [关于作者](#关于作者)
+
 ---
 
 ## 1.union含义
@@ -77,10 +84,10 @@ union在需要节约内存或需要通过同一个内存位置访问不同类型
 
 ## 关于作者
 
-本文作者：WeSiGJ
-微信公众号：WeSiGJ
-GitHub:<https://github.com/wesigj/CPLUSCPLUSBOYS>
-CSDN:<https://blog.csdn.net/wesigj>
-微博：
+本文作者：WeSiGJ.
+微信公众号:.
+GitHub:<https://github.com/wesigj/CPLUSCPLUSBOYS>.
+CSDN:<https://blog.csdn.net/wesigj>.
+微博:.
 
 版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
