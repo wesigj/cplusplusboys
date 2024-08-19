@@ -4,8 +4,8 @@
 
 ## C++面试基础知识系列
 
-(1)[C++](./C++/README.md)。
-(2)[embedded_software](./embedded_software/README.md)。
+- (1)[C++](./C++/README.md)
+- (2)[embedded_software](./embedded_software/README.md)
 
 ---
 

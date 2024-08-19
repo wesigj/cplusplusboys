@@ -86,7 +86,7 @@ union在需要节约内存或需要通过同一个内存位置访问不同类型
 
 - 本文作者:WeSiGJ
 - 微信公众号:WeSiGJ
-- GitHub:<https://github.com/wesigj/CPLUSCPLUSBOYS>
-- CSDN:<https://blog.csdn.net/wesigj>
+- GitHub:[https://github.com/wesigj/CPLUSCPLUSBOYS](https://github.com/wesigj/CPLUSCPLUSBOYS)
+- CSDN:[https://blog.csdn.net/wesigj](https://blog.csdn.net/wesigj)
 - 微博:
 - 版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
