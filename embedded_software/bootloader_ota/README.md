@@ -15,11 +15,5 @@
 - CSDN:[https://blog.csdn.net/wesigj](https://blog.csdn.net/wesigj)
 - 微博:
 - 微信公众号:WeSiGJ
-<html>
-<head>
-<title>文档的标题</title>
-</head>
-<body>
-<img src="/./img/wechat.jpg" width="60%">
-</body>
-</html>
+
+<html><body><img src="/./img/wechat.jpg" width="60%"></body></html>
