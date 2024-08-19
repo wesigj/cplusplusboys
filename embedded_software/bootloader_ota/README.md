@@ -2,11 +2,8 @@
 
 ---
 
-## C++面试基础知识系列
+## bootloader_ota
 
-- (1)[const](./Basic/const/README.md)
-- (2)[static](./Basic/static/README.md)
-- (3)[bit_operation](./Basic/bit_operation/README.md)
 
 ---
 
@@ -23,6 +20,6 @@
 <title>文档的标题</title>
 </head>
 <body>
-<img src="../img/wechat.jpg" width="60%">
+<img src="/./img/wechat.jpg" width="60%">
 </body>
 </html>

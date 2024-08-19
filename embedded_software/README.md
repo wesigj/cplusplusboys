@@ -2,11 +2,7 @@
 
 ---
 
-## C++面试基础知识系列
-
-- (1)[const](./Basic/const/README.md)
-- (2)[static](./Basic/static/README.md)
-- (3)[bit_operation](./Basic/bit_operation/README.md)
+## bootloader_ota
 
 ---
 
