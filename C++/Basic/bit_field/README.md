@@ -247,4 +247,4 @@ std::bitset是处理位字段操作的现代C++替代方案，它提供了一个
 - 微博:
 - 微信公众号:WeSiGJ
 
-<html><body><img src="/./img/wechat.jpg" width="60%"></body></html>
+<img src=/./img/wechat.jpg width=60% />

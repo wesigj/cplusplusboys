@@ -63,4 +63,4 @@ static_assert(sizeof(int) >= 4, "int类型必须至少占用4个字节");
 - 微博:
 - 微信公众号:WeSiGJ
 
-<html><body><img src="/./img/wechat.jpg" width="60%"></body></html>
+<img src=/./img/wechat.jpg width=60% />

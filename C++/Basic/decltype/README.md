@@ -126,4 +126,4 @@ C++ 类型推导是一个强大的特性，它允许编译器自动确定变量�
 - 微博:
 - 微信公众号:WeSiGJ
 
-<html><body><img src="/./img/wechat.jpg" width="60%"></body></html>
+<img src=/./img/wechat.jpg width=60% />

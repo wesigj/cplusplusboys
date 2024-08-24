@@ -223,4 +223,4 @@ int main() {
 - 微博:
 - 微信公众号:WeSiGJ
 
-<html><body><img src="/./img/wechat.jpg" width="60%"></body></html>
+<img src=/./img/wechat.jpg width=60% />
