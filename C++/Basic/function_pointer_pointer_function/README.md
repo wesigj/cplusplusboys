@@ -46,7 +46,6 @@
          return 0;
      }
      ```
-
    - **ERROR:a是一个局部变量，调用指向a的指针，会出现内存泄漏，应避免这种用法。**
 2. 函数指针的用法：
 
@@ -87,7 +86,6 @@
    functionPtr = function2; // 现在指向function2
    functionPtr(); // 调用function2
    ```
-
 2. **实现回调函数**：
    函数指针经常用于回调函数，即作为参数传递给另一个函数，然后在该函数内部调用。
 
@@ -102,7 +100,6 @@
        callback(myFunction);
    }
    ```
-
 3. **作为数据成员**：
    在类中使用函数指针作为数据成员，允许对象根据行为的不同来调用不同的函数。
 
@@ -115,7 +112,6 @@
    event.handler = myFunction;
    event.handler(); // 调用myFunction
    ```
-
 4. **数组和向量**：
    函数指针可以存储在数组或向量中，用于管理一组函数。
 
@@ -125,7 +121,6 @@
        func();
    }
    ```
-
 5. **函数指针类型转换**：
    在某些情况下，可能需要将一个函数指针转换为另一个类型的指针，或者反之。
 
@@ -133,7 +128,6 @@
    typedef void (*FuncType)();
    int (*intFunc)(int) = static_cast<int (*)(int)>(function1); // 类型转换
    ```
-
 6. **实现多态**：
    函数指针可以用来实现类似多态的行为，尤其是在使用函数作为类的成员或参数时。
 
@@ -152,7 +146,6 @@
    (*basePtr).execute(); // 多态调用
    delete basePtr;
    ```
-
 7. **用于排序和搜索算法**：
    在标准库算法中，如 `std::sort`或 `std::find_if`，可以传递函数指针或函数对象来指定自定义的比较或谓词函数。
 
@@ -161,7 +154,6 @@
    std::sort(std::begin(array), std::end(array),
             [](int a, int b) { return a > b; }); // lambda表达式作为函数指针使用
    ```
-
 8. **信号处理**：
    在Unix和类Unix系统中，`signal`函数允许为各种信号注册信号处理函数，这通常通过函数指针完成。
 
@@ -172,7 +164,6 @@
    // 注册信号处理函数
    signal(SIGINT, signalHandler);
    ```
-
 9. **函数指针的指针**：
    可以创建函数指针的数组或指针，这在实现函数表或多级回调时很有用。
 
@@ -181,7 +172,6 @@
    void (**functionTablePtr)() = functionTable;
    (*functionTablePtr)[0](); // 调用function1
    ```
-
 10. **与C ABI兼容**：
     由于C++兼容C的ABI（应用程序二进制接口），函数指针在C和C++之间可以互用，这在编写跨语言的库或接口时非常有用。
 
