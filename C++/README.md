@@ -21,10 +21,15 @@
 - [macro_definition](./Basic/macro_definition/README.md)
 - [pointerANDreferance](./Basic/pointerANDreferance/README.md)
 - [polymorphic](./Basic/polymorphic/README.md)
+- [sizeof](./Basic/sizeof/README.md)
 - [static](./Basic/static/README.md)
 - [struct](./Basic/struct/README.md)
+- [this](./Basic/this/README.md)
 - [union](./Basic/union/README.md)
+- [using](./Basic/using/README.md)
+- [virtual](./Basic/virtual/README.md)
 - [volatile](./Basic/volatile/README.md)
+- [vptr_vtable](./Basic/vptr_vtable/README.md)
 
 ---
 
