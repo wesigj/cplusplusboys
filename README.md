@@ -2,11 +2,14 @@
 
 ---
 
-## C++面试基础知识系列
+## C++ Learning Path
 
 - (1)[C++](./C++/README.md)
+- (2)[design_pattern](./design_pattern/README.md)
 
-- (2)[embedded_software](./embedded_software/README.md)
+## embedded_software Learning Path
+
+- (1)[embedded_software](./embedded_software/README.md)
 
 ---
 
