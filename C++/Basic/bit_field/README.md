@@ -240,11 +240,10 @@ std::bitset是处理位字段操作的现代C++替代方案，它提供了一个
 
 ## 关于作者
 
-- 本文作者:WeSiGJ
-- 版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
+- 微信公众号:WeSiGJ
 - GitHub:[https://github.com/wesigj/cplusplusboys](https://github.com/wesigj/cplusplusboys)
 - CSDN:[https://blog.csdn.net/wesigj](https://blog.csdn.net/wesigj)
 - 微博:
-- 微信公众号:WeSiGJ
+- 版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
 
 <img src=/./img/wechat.jpg width=60% />
