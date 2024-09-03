@@ -20,7 +20,7 @@ What are the common design principles or best practices in design patterns?
 - [原型模式 prototype_pattern](./creational_patterns/prototype_pattern/README.md)
 - [单例模式 singleton_pattern](./creational_patterns/singleton_pattern/README.md)
 
-### [结构型模式](./structural_patterns/README.md)
+### [结构型模式Structural pattern](./structural_patterns/README.md)
 
 - [适配器模式 adapter_pattern](./structural_patterns/adapter_pattern/README.md)
 - [桥接模式 bridge_pattern](./structural_patterns/bridge_pattern/README.md)
@@ -30,7 +30,7 @@ What are the common design principles or best practices in design patterns?
 - [享元模式 flyweight_pattern](./structural_patterns/flyweight_pattern/README.md)
 - [代理模式 proxy_pattern](./structural_patterns/proxy_pattern/README.md)
 
-### [行为模式](./behavioral_patterns/README.md)
+### [行为模式Behavioral patterns](./behavioral_patterns/README.md)
 
 - [责任链模式 chain_of_responsibility_pattern](./behavioral_patterns/chain_of_responsibility_pattern/README.md)
 - [命令模式 command_pattern](./behavioral_patterns/command_pattern/README.md)
@@ -40,9 +40,9 @@ What are the common design principles or best practices in design patterns?
 - [观察者模式 observer_pattern](./behavioral_patterns/observer_pattern/README.md)
 - [状态模式 state_pattern](./behavioral_patterns/state_pattern/README.md)
 - [策略模式 strategy_pattern](./behavioral_patterns/strategy_pattern/README.md)
-- [模板方法模式 _pattern](./behavioral_patterns/_pattern/README.md)
-- [访问者模式 _pattern](./behavioral_patterns/_pattern/README.md)
-- [解释器模式 _pattern](./behavioral_patterns/_pattern/README.md)
+- [模板方法模式 template_method_pattern](./behavioral_patterns/template_method_pattern/README.md)
+- [访问者模式 visitor_pattern](./behavioral_patterns/visitor_pattern/README.md)
+- [解释器模式 interpreter_pattern](./behavioral_patterns/interpreter_pattern/README.md)
 
 ---
 

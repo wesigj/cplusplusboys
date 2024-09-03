@@ -1,4 +1,4 @@
-# 设计模式-责任链模式（Chain of Responsibility Pattern）
+# 设计模式-责任链模式-Chain of Responsibility Pattern
 
 [TOC]
 

@@ -4,12 +4,21 @@
 
 ## C++ Learning Path
 
-- (1)[C++](./C++/README.md)
-- (2)[design_pattern](./design_pattern/README.md)
+1. [C++](./C++/README.md)
 
-## embedded_software Learning Path
+## python Learning Path
 
-- (1)[embedded_software](./embedded_software/README.md)
+1. [python](./python/README.md)
+
+## design pattern Learning Path
+
+1. [design_pattern](./design_pattern/README.md)
+
+## operating system Learning Path
+
+## embedded software Learning Path
+
+1. [embedded_software](./embedded_software/README.md)
 
 ---
 
@@ -25,7 +34,7 @@
 
 ---
 
-## support-支持
+## supports-支持
 
 [如果项目对你有用，请我喝杯奶茶，谢谢！](/./img/wechat_supports.jpg)
 
