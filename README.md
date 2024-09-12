@@ -77,6 +77,8 @@ What are the common design principles or best practices in design patterns?
 
 ## Operating System Learning Path
 
+- [operating_system](./operating_system/README.md)
+
 ## Embedded Software Learning Path
 
 - [embedded_software](./embedded_software/README.md)

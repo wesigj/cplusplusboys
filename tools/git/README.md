@@ -8,6 +8,8 @@
 
 ## git sample
 
+- [how_to_use_github](./how_to_use_github/README.md)
+
 ---
 
 ## 关于作者

@@ -1,15 +1,10 @@
-# python
-
-[TOC]
-
-## Overview
+# Overview
 
 ---
 
 ## python reptile 爬虫
 
 - [抓取CSDN博主的文章标题以及链接](./reptile/get_csdn_title_link/get_csdn_title_link.md)
-
 ---
 
 ## 关于作者
