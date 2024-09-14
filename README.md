@@ -1,5 +1,7 @@
 # Overview
 
+[TOC]
+
 ---
 
 ## C++ Learning Path
@@ -82,6 +84,7 @@ What are the common design principles or best practices in design patterns?
 ## Embedded Software Learning Path
 
 - [embedded_software](./embedded_software/README.md)
+  - [memory_of_micro_chip](./embedded_software/memory_of_micro_chip/README.md)
 
 ## Tools Learning Path
 
