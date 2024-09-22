@@ -1,10 +1,18 @@
 # Overview
 
+- C++
+- Python
+- Design Pattern 设计模式
+- Operating System 操作系统
+- Embedded Software 嵌入式软件
+- Programmer Tools 编程开发工具
+- 欢迎兄弟们加入到该项目，提交你的代码
+
 [TOC]
 
 ---
 
-## C++ Learning Path
+## C++
 
 ### C++ Basic 基础知识
 
@@ -50,30 +58,63 @@
   - [day9-异常](./C++/Practical-1/day9/README.md)
   - [day10-文件与流](./C++/Practical-1/day10/README.md)
 
-### C++ Practical-2 练习2
+### C++ Practical-2 练习2 (待更新)
 
 - [C++ Practical-2](./C++/Practical-2)
-  - [中括号重载.cpp](./C++/Practical-2/bracket_overloading.cpp)
-  - [时钟++运算符重载.cpp](./C++/Practical-2/clock.cpp)
-  - [运算符重载之强制转换.cpp](./C++/Practical-2/operator_cast.cpp)
-  - [重载圆括号的时钟.cpp](./C++/Practical-2/operator_circle.cpp)
-  - [函数模板.cpp](./C++/Practical-2/func_temp.cpp)
-  - [动态数组.cpp](./C++/Practical-2/array.cpp)
-  - [字典插入与查找.cpp](./C++/Practical-2/map_insert_look.cpp)
-  - [异常捕获.cpp](./C++/Practical-2/try.cpp)
-  - [类模板之栈.cpp](./C++/Practical-2/stack.cpp)
-  - [类模板特化之数组.cpp](./C++/Practical-2/array_template.cpp)
-  - [继承与封装.cpp](./C++/Practical-2/override.cpp)
-  - [读写文件综合题.cpp](./C++/Practical-2/read_file.cpp)
-  - [输入输出运算符重载.cpp](./C++/Practical-2/io_operator_overload.cpp)
-  - [输入输出重载.cpp](./C++/Practical-2/io_operator.cpp)
-  - [输出格式.cpp](./C++/Practical-2/output.cpp)
+  - [1-中括号重载](./C++/Practical-2/bracket_overloading/README.md)
+  - [2-时钟++运算符重载](./C++/Practical-2/clock/README.md)
+  - [3-运算符重载之强制转换](./C++/Practical-2/operator_cast/README.md)
+  - [4-重载圆括号的时钟](./C++/Practical-2/operator_circle/README.md)
+  - [5-函数模板](./C++/Practical-2/func_temp/README.md)
+  - [6-动态数组](./C++/Practical-2/array/README.md)
+  - [7-字典插入与查找](./C++/Practical-2/map_insert_look/README.md)
+  - [8-异常捕获](./C++/Practical-2/try/README.md)
+  - [9-类模板之栈](./C++/Practical-2/stack/README.md)
+  - [10-类模板特化之数组](./C++/Practical-2/array_template/README.md)
+  - [11-继承与封装](./C++/Practical-2/override/README.md)
+  - [12-读写文件综合题](./C++/Practical-2/read_file/README.md)
+  - [13-输入输出运算符重载](./C++/Practical-2/io_operator_overload/README.md)
+  - [14-输入输出重载](./C++/Practical-2/io_operator/README.md)
+  - [15-输出格式](./C++/Practical-2/output/README.md)
 
-## Python Learning Path
+### C++ STL (待更新)
+
+- [C++ STL](./C++/STL)
+  - [array](./C++/STL/array.md)
+  - [deque](./C++/STL/deque.md)
+  - [queue and stack](./C++/STL/queue_stack.md)
+  - [list](./C++/STL/list.md)
+  - [vector](./C++/STL/vector.md)
+  - [typename](./C++/STL/typename.md)
+  - [traits](./C++/STL/traits.md)
+  - [iterator](./C++/STL/iterator.md)
+  - [谈谈 STL 设计之 EBO 优化](./C++/STL/谈谈STL设计之EBO优化.md)
+  - [rb_tree](./C++/STL/rb_tree.md)
+  - [set and multiset](./C++/STL/set_multiset.md)
+  - [map and multimap](./C++/STL/map_multimap.md)
+  - [hashtable](./C++/STL/hashtable.md)
+  - [myhashtable](./C++/STL/myhashtable.md)
+  - [unordered_map](./C++/STL/unordered_map.md)
+
+### C++ C++11/14/17/20 (待更新)
+
+### C++ Modern C++ (待更新)
+
+### C++ Concurrent programming 并发编程 (待更新)
+
+### C++ Multithreading and multiprocessing 多线程和多进程 (待更新)
+
+### C++ Coding Style 编程风格 (待更新)
+
+### C++ Debug 调试 (待更新)
+
+### C++ Tools 工具 (待更新)
+
+## Python
 
 - [python](./python/README.md)
 
-## Design Pattern Learning Path
+## Design Pattern
 
 - [design_pattern](./design_pattern/README.md)
 
@@ -112,16 +153,16 @@ What are the common design principles or best practices in design patterns?
   - [访问者模式 visitor_pattern](./design_pattern/behavioral_patterns/visitor_pattern/README.md)
   - [解释器模式 interpreter_pattern](./design_pattern/behavioral_patterns/interpreter_pattern/README.md)
 
-## Operating System Learning Path
+## Operating System
 
 - [operating_system](./operating_system/README.md)
 
-## Embedded Software Learning Path
+## Embedded Software
 
 - [embedded_software](./embedded_software/README.md)
   - [memory_of_micro_chip](./embedded_software/memory_of_micro_chip/README.md)
 
-## Tools Learning Path
+## Programmer Tools
 
 ### Git
 
@@ -130,6 +171,20 @@ What are the common design principles or best practices in design patterns?
 ### Vscode
 
 - [vscode](./tools/vscode/README.md)
+
+---
+
+## TODO LISTS
+
+- C++ Practical-2 练习2 (待更新)
+- C++ STL (待更新)
+- C++ C++11/14/17/20 (待更新)
+- C++ Modern C++ (待更新)
+- C++ Concurrent programming 并发编程 (待更新)
+- C++ Multithreading and multiprocessing 多线程和多进程 (待更新)
+- C++ Coding Style 编程风格 (待更新)
+- C++ Debug 调试 (待更新)
+- C++ Tools 工具 (待更新)
 
 ---
 
