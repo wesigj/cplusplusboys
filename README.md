@@ -68,12 +68,12 @@
   - [5-模板之函数模板](./C++/Practical-2/05_template_function/README.md)
   - [6-类模板之栈](./C++/Practical-2/06_template_class_stack/README.md)
   - [7-类模板特化之数组](./C++/Practical-2/07_template_class_array/README.md)
-  - [8-动态数组](./C++/Practical-2/dynamic_array/README.md)
-  - [9-字典插入与查找](./C++/Practical-2/map_insert_seek/README.md)
-  - [10-异常捕获](./C++/Practical-2/try_exception/README.md)
-  - [11-继承与封装](./C++/Practical-2/override/README.md)
-  - [12-读写文件综合题](./C++/Practical-2/read_write_file/README.md)
-  - [13-输出格式](./C++/Practical-2/output_format/README.md)
+  - [8-动态数组](./C++/Practical-2/08_dynamic_array/README.md)
+  - [9-字典插入与查找](./C++/Practical-2/09_map_insert_seek/README.md)
+  - [10-异常捕获](./C++/Practical-2/10_try_exception/README.md)
+  - [11-继承与封装](./C++/Practical-2/11_inheritance_encapsulation/README.md)
+  - [12-读写文件综合题](./C++/Practical-2/12_read_write_file/README.md)
+  - [13-输出格式](./C++/Practical-2/13_output_format/README.md)
 
 ### C++ STL (待更新)
 
