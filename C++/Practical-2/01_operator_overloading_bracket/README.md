@@ -1,4 +1,4 @@
-# C++ Practical-2 重载函数调用运算符`()` 中括号
+# C++ Practical-2 day1 重载函数调用运算符`()` 中括号
 
 [TOC]
 

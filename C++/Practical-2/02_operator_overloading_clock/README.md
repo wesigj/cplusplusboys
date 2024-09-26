@@ -1,4 +1,4 @@
-# C++ Practical-2 运算符重载之时钟类++运算符
+# C++ Practical-2 day2 运算符重载之时钟类++运算符
 
 [TOC]
 

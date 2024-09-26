@@ -1,4 +1,4 @@
-# C++ Practical-2 动态数组
+# C++ Practical-2 day8 动态数组
 
 [TOC]
 

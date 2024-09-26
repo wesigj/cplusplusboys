@@ -58,7 +58,7 @@
   - [day9-异常](./C++/Practical-1/day9/README.md)
   - [day10-文件与流](./C++/Practical-1/day10/README.md)
 
-### C++ Practical-2 练习2 (待更新)
+### C++ Practical-2 练习2
 
 - [C++ Practical-2](./C++/Practical-2)
   - [1-运算符重载之中括号](./C++/Practical-2/01_operator_overloading_bracket/README.md)
@@ -94,7 +94,34 @@
   - [myhashtable](./C++/STL/myhashtable.md)
   - [unordered_map](./C++/STL/unordered_map.md)
 
-### C++ C++11/14/17/20 (待更新)
+### C++ C++11/14/17/20/23 (待更新)
+
+- [C++ 11](./C++/Modern_cpp/cpp11/)
+  - [Variadic Templates](./C++/Modern_cpp/cpp11/variadic)
+  - [nullptr and nullptr_t](./C++/Modern_cpp/cpp11/nullptr.cpp)
+  - [Automatic Type Deduction with auto](./C++/Modern_cpp/cpp11/auto.cpp)
+  - [Uniform Initialization](./C++/Modern_cpp/cpp11/uniform_initialization.cpp)
+  - [initializer_list](./C++/Modern_cpp/cpp11/initializer.cpp)
+  - [explicit for ctors taking more than one argument](./C++/Modern_cpp/cpp11/explicit.cpp)
+  - [range-based for statement](./C++/Modern_cpp/cpp11/auto.cpp)
+  - [=default,=delete](./C++/Modern_cpp/cpp11/default_delete.cpp)
+    - [alias.cpp](./C++/Modern_cpp/cpp11/alias.cpp)
+    - [template_template.cpp](./C++/Modern_cpp/cpp11/template_template.cpp)
+  - [template template parameter](./C++/Modern_cpp/template_template.cpp)
+  - [type alias](./C++/Modern_cpp/cpp11/type_alias.cpp)
+  - [noexcept](./C++/Modern_cpp/cpp11/noexcept.cpp)
+  - [override](./C++/Modern_cpp/cpp11/override.cpp)
+  - [final](./C++/Modern_cpp/cpp11/final.cpp)
+  - [decltype](./C++/Modern_cpp/cpp11/decltype.cpp)
+  - [lambda](./C++/Modern_cpp/cpp11/lambda.cpp)
+  - [Rvalue reference](./C++/Modern_cpp/cpp11/rvalue.cpp)
+  - [move aware class](./C++/Modern_cpp/cpp11/move.cpp)
+  - [Hash Function](./C++/Modern_cpp/cpp11/hash.cpp)
+  - [tuple](./C++/Modern_cpp/cpp11/tuple.cpp)
+- [C++ 14](./C++/Modern_cpp/cpp14/)
+- [C++ 17](./C++/Modern_cpp/cpp17/)
+- [C++ 20](./C++/Modern_cpp/cpp20/)
+- [C++ 23](./C++/Modern_cpp/cpp23/)
 
 ### C++ Modern C++ (待更新)
 
@@ -111,6 +138,7 @@
 ## Python
 
 - [python](./python/README.md)
+  - [python reptile 爬虫 抓取CSDN博主的文章标题以及链接](./python/reptile/reptile/get_csdn_title_link/get_csdn_title_link.md)
 
 ## Design Pattern
 
@@ -174,7 +202,6 @@ What are the common design principles or best practices in design patterns?
 
 ## TODO LISTS
 
-- C++ Practical-2 练习2 (待更新)
 - C++ STL (待更新)
 - C++ C++11/14/17/20 (待更新)
 - C++ Modern C++ (待更新)

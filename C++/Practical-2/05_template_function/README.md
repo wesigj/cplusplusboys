@@ -1,4 +1,4 @@
-# C++ Practical-2 模板之函数模板
+# C++ Practical-2 day5 模板之函数模板
 
 [TOC]
 

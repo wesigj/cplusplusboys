@@ -1,4 +1,4 @@
-# C++ Practical-2 类模板特化之数组
+# C++ Practical-2 day7 类模板特化之数组
 
 [TOC]
 

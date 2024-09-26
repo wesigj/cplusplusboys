@@ -1,4 +1,4 @@
-# C++ Practical-2 异常捕获 异常处理 try exception
+# C++ Practical-2 day10 异常捕获 异常处理 try exception
 
 [TOC]
 

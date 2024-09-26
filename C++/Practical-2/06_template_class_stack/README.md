@@ -1,4 +1,4 @@
-# C++ Practical-2 类模板之栈
+# C++ Practical-2 day6 类模板之栈
 
 [TOC]
 
