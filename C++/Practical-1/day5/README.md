@@ -1,4 +1,4 @@
-# C++ Practical-1 day5
+# C++ Practical-1 day5 继承多态
 
 [TOC]
 
