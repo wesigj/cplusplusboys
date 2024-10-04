@@ -1,4 +1,4 @@
-# memory_of_micro_chip
+# ROM RAM Flash data bss text heap stack (memory_of_micro_chip)
 
 [TOC]
 

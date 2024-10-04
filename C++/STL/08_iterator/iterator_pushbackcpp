@@ -1,0 +1,16 @@
+#include <iostream>
+#include <vector>
+#include <list>
+
+int main() {
+    // 对于 vector
+    std::vector<int> vec = {1, 2, 3};
+    vec.push_back(4); // 添加元素到末尾
+
+    // 对于 list
+    std::list<int> lst = {1, 2, 3};
+    lst.push_back(4);  // 添加元素到末尾
+    lst.push_front(0); // 添加元素到开头
+
+    return 0;
+}
