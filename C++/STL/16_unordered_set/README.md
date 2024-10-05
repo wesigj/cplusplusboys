@@ -4,9 +4,6 @@
 
 ## Overview
 
-- C++不练习coding，就相当于空中楼阁，基础不扎实
-- 光吃不干，等于没吃
-
 ---
 
 ## 1.unordered_set
