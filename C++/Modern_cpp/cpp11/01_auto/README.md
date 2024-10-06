@@ -1,6 +1,6 @@
-# C++11 Automatic type deduction 自动类型推导
+# C++11 1-Automatic type deduction 自动类型推导
 
-- [C++11 Automatic type deduction 自动类型推导](#c11-automatic-type-deduction-自动类型推导)
+- [C++11 1-Automatic type deduction 自动类型推导](#c11-1-automatic-type-deduction-自动类型推导)
   - [Overview](#overview)
   - [1.Automatic type deduction 自动类型推导](#1automatic-type-deduction-自动类型推导)
     - [1.1.自动类型推导的工作原理](#11自动类型推导的工作原理)
