@@ -18,7 +18,7 @@
     - [C++ Practical-2 练习2](#c-practical-2-练习2)
     - [C++ STL](#c-stl)
     - [C++ C++11/14/17/20/23 (正在更新)](#c-c1114172023-正在更新)
-    - [C++ Concurrent programming 并发编程 (待更新)](#c-concurrent-programming-并发编程-待更新)
+    - [C++ Concurrent programming 并发编程](#c-concurrent-programming-并发编程)
     - [C++ Multithreading and multiprocessing 多线程和多进程 (待更新)](#c-multithreading-and-multiprocessing-多线程和多进程-待更新)
     - [C++ Coding Style 编程风格 (待更新)](#c-coding-style-编程风格-待更新)
     - [C++ Debug 调试 (待更新)](#c-debug-调试-待更新)
@@ -175,11 +175,24 @@
 - [C++ 20](./C++/Modern_cpp/cpp20/)
 - [C++ 23](./C++/Modern_cpp/cpp23/)
 
-### C++ Concurrent programming 并发编程 (待更新)
+### C++ Concurrent programming 并发编程
+
+- [4-并发编程 Concurrent programming](./C++/Modern_cpp/cpp11/04_concurrent_programming/README.md)
 
 ### C++ Multithreading and multiprocessing 多线程和多进程 (待更新)
 
+- [介绍](./concurrency/multithreading_multiprocessing/1.thread)
+- [创建线程的五种类型](./concurrency/multithreading_multiprocessing/2.create_type)
+- [Join 与 Detachs](./concurrency/multithreading_multiprocessing/3.join_detach)
+- [mutex in C++ Threading](./concurrency/multithreading_multiprocessing/4.mutex)
+
 ### C++ Coding Style 编程风格 (待更新)
+
+- [1.类初始化列表](./coding_style/1_classInitializers)
+- [2.枚举类替换命名空间](./coding_style/2_enumclass_namespace)
+- [3.RAII (资源获取即初始化)](./coding_style/3_RAII)
+- [4.copy and swap](./coding_style/4_copy-swap)
+- [5.pImpl (指针指向具体实现)](./coding_style/5_pImpl)
 
 ### C++ Debug 调试 (待更新)
 
@@ -253,7 +266,6 @@ What are the common design principles or best practices in design patterns?
 ## TODO LISTS
 
 - C++ C++11/14/17/20 (正在更新)
-- C++ Concurrent programming 并发编程 (即将更新)
 - C++ Multithreading and multiprocessing 多线程和多进程 (即将更新)
 - C++ Coding Style 编程风格 (即将更新)
 - C++ Debug 调试 (待更新)
