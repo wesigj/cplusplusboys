@@ -17,10 +17,10 @@
     - [C++ Practical-1 练习1](#c-practical-1-练习1)
     - [C++ Practical-2 练习2](#c-practical-2-练习2)
     - [C++ STL](#c-stl)
-    - [C++ C++11/14/17/20/23 (正在更新)](#c-c1114172023-正在更新)
+    - [C++ C++11/14/17/20/23](#c-c1114172023)
     - [C++ Concurrent programming 并发编程](#c-concurrent-programming-并发编程)
-    - [C++ Multithreading and multiprocessing 多线程和多进程 (待更新)](#c-multithreading-and-multiprocessing-多线程和多进程-待更新)
-    - [C++ Coding Style 编程风格 (待更新)](#c-coding-style-编程风格-待更新)
+    - [C++ Multithreading and multiprocessing 多线程和多进程](#c-multithreading-and-multiprocessing-多线程和多进程)
+    - [C++ Coding Style 编程风格](#c-coding-style-编程风格)
     - [C++ Debug 调试 (待更新)](#c-debug-调试-待更新)
     - [C++ Tools 工具 (待更新)](#c-tools-工具-待更新)
   - [Python](#python)
@@ -121,7 +121,7 @@
   - [15-unordered_map](./C++/STL/15_unordered_map/README.md)
   - [16-unordered_set](./C++/STL/16_unordered_set/README.md)
 
-### C++ C++11/14/17/20/23 (正在更新)
+### C++ C++11/14/17/20/23
 
 - [C++ 11](./C++/Modern_cpp/cpp11/README.md)
   - [1-Automatic type deduction 自动类型推导](./C++/Modern_cpp/cpp11/01_auto/README.md)
@@ -139,38 +139,28 @@
   - [13-静态断言 Static assertions](./C++/Modern_cpp/cpp11/13_static_assertions/README.md)
   - [14-属性语法 attribute syntax](./C++/Modern_cpp/cpp11/14_attribute_syntax/README.md)
   - [15-原子操作 Atomic operation](./C++/Modern_cpp/cpp11/15_atomic_operation/README.md)
-  - [16-垃圾收集](./C++/Modern_cpp/cpp11/16_/README.md)
-  - [17-文件系统库](./C++/Modern_cpp/cpp11/17_/README.md)
-  - [18-用户定义的字面量](./C++/Modern_cpp/cpp11/18_/README.md)
-  - [19-线程局部存储](./C++/Modern_cpp/cpp11/19_/README.md)
-  - [20-扩展的 `sizeof`](./C++/Modern_cpp/cpp11/20_/README.md)
-  - [21-统一的内存模型](./C++/Modern_cpp/cpp11/21_/README.md)
-  - [22-新的转换运算符](./C++/Modern_cpp/cpp11/22_/README.md)
-  - [23-头文件中的 inline 变量](./C++/Modern_cpp/cpp11/23_/README.md)
-  - [24-删除的函数](./C++/Modern_cpp/cpp11/24_/README.md)
-  - [25-默认函数删除](./C++/Modern_cpp/cpp11/25_/README.md)
-  - [26-二进制字面量](./C++/Modern_cpp/cpp11/26_/README.md)
-  - [27-多成员的 `using` 声明](./C++/Modern_cpp/cpp11/27_/README.md)
-  - [28-显式的虚拟函数重写](./C++/Modern_cpp/cpp11/28_/README.md)
-  - [29-纯虚函数的默认实现](./C++/Modern_cpp/cpp11/29_/README.md)
-  - [30-外部模板](./C++/Modern_cpp/cpp11/30_/README.md)
-
-  - [可变参数模板 Variadic Templates](./C++/Modern_cpp/cpp11/variadic)
-  - [nullptr and nullptr_t](./C++/Modern_cpp/cpp11/nullptr/README.md)
-  - [explicit for ctors taking more than one argument](./C++/Modern_cpp/cpp11/explicit/README.md)
-  - [=default,=delete](./C++/Modern_cpp/cpp11/default_delete/README.md)
-    - [alias/README.md](./C++/Modern_cpp/cpp11/alias/README.md)
-    - [template_template/README.md](./C++/Modern_cpp/cpp11/template_template/README.md)
-  - [template template parameter](./C++/Modern_cpp/template_template/README.md)
-  - [type alias](./C++/Modern_cpp/cpp11/type_alias/README.md)
-  - [noexcept](./C++/Modern_cpp/cpp11/noexcept/README.md)
-  - [override](./C++/Modern_cpp/cpp11/override/README.md)
-  - [final](./C++/Modern_cpp/cpp11/final/README.md)
-  - [decltype](./C++/Modern_cpp/cpp11/decltype/README.md)
-  - [move aware class](./C++/Modern_cpp/cpp11/move/README.md)
-  - [Hash Function](./C++/Modern_cpp/cpp11/hash/README.md)
-  - [tuple](./C++/Modern_cpp/cpp11/tuple/README.md)
+  - [16-垃圾收集 Garbage Collection](./C++/Modern_cpp/cpp11/16_garbage_collection/README.md)
+  - [17-文件系统库 File System Library](./C++/Modern_cpp/cpp11/17_file_system_library/README.md)
+  - [18-用户定义的字面量 User defined literal values](./C++/Modern_cpp/cpp11/18_User_defined_literal_values/README.md)
+  - [19-线程局部存储 Thread Local Storage](./C++/Modern_cpp/cpp11/19_thread_local_storage/README.md)
+  - [20-扩展的 `sizeof` Extended sizeof](./C++/Modern_cpp/cpp11/20_extended_sizeof/README.md)
+  - [21-统一的内存模型 Unified memory model](./C++/Modern_cpp/cpp11/21_unified_memory_model/README.md)
+  - [22-新的转换运算符 New conversion operator](./C++/Modern_cpp/cpp11/22_new_conversion_operator/README.md)
+  - [23-头文件中的 inline 变量 Inline variable in header file](./C++/Modern_cpp/cpp11/23_inline_variable_in_header_file/README.md)
+  - [24-删除的函数 delete functions](./C++/Modern_cpp/cpp11/24_delete_functions/README.md)
+  - [25-默认函数删除 =default =delete](./C++/Modern_cpp/cpp11/25_default_delete_functions/README.md)
+  - [26-多成员的 `using` 声明 Multi member using declaration](./C++/Modern_cpp/cpp11/26_multi_member_using_declaration/README.md)
+  - [27-显式的虚拟函数重写 Explicit rewriting of virtual functions](./C++/Modern_cpp/cpp11/27_explicit_rewriting_of_virtual_functions/README.md)
+  - [28-纯虚函数的默认实现 The default implementation of pure virtual functions](./C++/Modern_cpp/cpp11/28_pure_virtual_of_default/README.md)
+  - [29-外部模板 Extern Template](./C++/Modern_cpp/cpp11/29_extern_template/README.md)
+  - [30-可变参数模板 Variadic Templates](./C++/Modern_cpp/cpp11/30_variadic_templates/README.md)
+  - [31-nullptr and nullptr_t](./C++/Modern_cpp/cpp11/31_nullptr/README.md)
+  - [32-type alias](./C++/Modern_cpp/cpp11/32_type_alias/README.md)
+  - [33-move aware class](./C++/Modern_cpp/cpp11/33_move/README.md)
+  - [34-Hash Function](./C++/Modern_cpp/cpp11/34_hash/README.md)
+  - [35-tuple](./C++/Modern_cpp/cpp11/35_tuple/README.md)
 - [C++ 14](./C++/Modern_cpp/cpp14/)
+  - [1-二进制字面量 Binary literal](./C++/Modern_cpp/cpp14/01_binary_literal/README.md)
 - [C++ 17](./C++/Modern_cpp/cpp17/)
 - [C++ 20](./C++/Modern_cpp/cpp20/)
 - [C++ 23](./C++/Modern_cpp/cpp23/)
@@ -179,20 +169,20 @@
 
 - [4-并发编程 Concurrent programming](./C++/Modern_cpp/cpp11/04_concurrent_programming/README.md)
 
-### C++ Multithreading and multiprocessing 多线程和多进程 (待更新)
+### C++ Multithreading and multiprocessing 多线程和多进程
 
-- [介绍](./concurrency/multithreading_multiprocessing/1.thread)
-- [创建线程的五种类型](./concurrency/multithreading_multiprocessing/2.create_type)
-- [Join 与 Detachs](./concurrency/multithreading_multiprocessing/3.join_detach)
-- [mutex in C++ Threading](./concurrency/multithreading_multiprocessing/4.mutex)
+- [多线程和多进程 介绍](./C++/concurrency/multithreading_multiprocessing/1.multi_thread_process/README.md)
+- [创建线程的五种类型](./C++/concurrency/multithreading_multiprocessing/2.create_type/README.md)
+- [Join 与 Detachs](./C++/concurrency/multithreading_multiprocessing/3.join_detach/README.md)
+- [mutex in C++ Threading](./C++/concurrency/multithreading_multiprocessing/4.mutex/README.md)
 
-### C++ Coding Style 编程风格 (待更新)
+### C++ Coding Style 编程风格
 
-- [1.类初始化列表](./coding_style/1_classInitializers)
-- [2.枚举类替换命名空间](./coding_style/2_enumclass_namespace)
-- [3.RAII (资源获取即初始化)](./coding_style/3_RAII)
-- [4.copy and swap](./coding_style/4_copy-swap)
-- [5.pImpl (指针指向具体实现)](./coding_style/5_pImpl)
+- [1.编程风格-类初始化列表](./coding_style/1_class_initializers/README.md)
+- [2.编程风格-枚举类替换命名空间](./coding_style/2_enumclass_namespace/README.md)
+- [3.编程风格-RAII (资源获取即初始化)](./coding_style/3_RAII/README.md)
+- [4.编程风格-copy and swap](./coding_style/4_copy_swap/README.md)
+- [5.编程风格-pImpl (指针指向具体实现)](./coding_style/5_pImpl/README.md)
 
 ### C++ Debug 调试 (待更新)
 
@@ -264,12 +254,6 @@ What are the common design principles or best practices in design patterns?
 ---
 
 ## TODO LISTS
-
-- C++ C++11/14/17/20 (正在更新)
-- C++ Multithreading and multiprocessing 多线程和多进程 (即将更新)
-- C++ Coding Style 编程风格 (即将更新)
-- C++ Debug 调试 (待更新)
-- C++ Tools 工具 (待更新)
 
 ---
 
