@@ -178,11 +178,11 @@
 
 ### C++ Coding Style 编程风格
 
-- [1.编程风格-类初始化列表](./coding_style/1_class_initializers/README.md)
-- [2.编程风格-枚举类替换命名空间](./coding_style/2_enumclass_namespace/README.md)
-- [3.编程风格-RAII (资源获取即初始化)](./coding_style/3_RAII/README.md)
-- [4.编程风格-copy and swap](./coding_style/4_copy_swap/README.md)
-- [5.编程风格-pImpl (指针指向具体实现)](./coding_style/5_pImpl/README.md)
+- [1.编程风格-类初始化列表](./C++/coding_style/1_class_initializers/README.md)
+- [2.编程风格-枚举类替换命名空间](./C++/coding_style/2_enumclass_namespace/README.md)
+- [3.编程风格-RAII (资源获取即初始化)](./C++/coding_style/3_RAII/README.md)
+- [4.编程风格-copy and swap](./C++/coding_style/4_copy_swap/README.md)
+- [5.编程风格-pImpl (指针指向具体实现)](./C++/coding_style/5_pImpl/README.md)
 
 ### C++ Debug 调试 (待更新)
 
@@ -191,7 +191,7 @@
 ## Python
 
 - [python](./python/README.md)
-  - [python reptile 爬虫 抓取CSDN博主的文章标题以及链接](./python/reptile/reptile/get_csdn_title_link/get_csdn_title_link.md)
+  - [python reptile 爬虫 抓取CSDN博主的文章标题以及链接](./python/reptile/get_csdn_title_link/get_csdn_title_link.md)
 
 ## Design Pattern
 

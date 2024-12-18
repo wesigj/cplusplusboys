@@ -1,6 +1,6 @@
-# C++11 26-二进制字面量 Binary literal
+# C++14 1-二进制字面量 Binary literal
 
-- [C++11 26-二进制字面量 Binary literal](#c11-26-二进制字面量-binary-literal)
+- [C++14 1-二进制字面量 Binary literal](#c14-1-二进制字面量-binary-literal)
   - [Overview](#overview)
   - [1.二进制字面量 Binary literal](#1二进制字面量-binary-literal)
     - [1.1.示例](#11示例)

@@ -4,16 +4,16 @@
   - [Overview](#overview)
   - [1.文件系统库 File System Library](#1文件系统库-file-system-library)
   - [2.C++11 中的 std::filesystem 库有哪些常用的文件操作函数？](#2c11-中的-stdfilesystem-库有哪些常用的文件操作函数)
-  - [3.Boost.Filesystem 和 std:filesystem 在功能上有哪些主要区别?](#3boostfilesystem-和-stdfilesystem-在功能上有哪些主要区别)
+  - [3.Boost.Filesystem 和 std::filesystem 在功能上有哪些主要区别?](#3boostfilesystem-和-stdfilesystem-在功能上有哪些主要区别)
   - [4.在Windows平台上，除了使用WindowsAPls，还有哪些方法可以处理文件系统操作？](#4在windows平台上除了使用windowsapls还有哪些方法可以处理文件系统操作)
-  - [5.std:filesystem在处理文件系统错误时有哪些异常类型？](#5stdfilesystem在处理文件系统错误时有哪些异常类型)
-  - [6.如何使用std:filesystem进行文件的复制和移动操作？](#6如何使用stdfilesystem进行文件的复制和移动操作)
+  - [5.std::filesystem在处理文件系统错误时有哪些异常类型？](#5stdfilesystem在处理文件系统错误时有哪些异常类型)
+  - [6.如何使用std::filesystem进行文件的复制和移动操作？](#6如何使用stdfilesystem进行文件的复制和移动操作)
     - [6.1.包含必要的头文件](#61包含必要的头文件)
     - [6.2.复制文件](#62复制文件)
     - [6.3.移动文件](#63移动文件)
     - [6.4.示例：使用这些函数](#64示例使用这些函数)
     - [6.5.注意事项](#65注意事项)
-  - [7.std:filesystem在跨平台的文件系统操作中有哪些限制或挑战？](#7stdfilesystem在跨平台的文件系统操作中有哪些限制或挑战)
+  - [7.std::filesystem在跨平台的文件系统操作中有哪些限制或挑战？](#7stdfilesystem在跨平台的文件系统操作中有哪些限制或挑战)
   - [关于作者](#关于作者)
 
 ## Overview
@@ -94,7 +94,7 @@
 
 请注意，`std::filesystem`库在不同的标准库实现中可能存在一些差异，因此在使用时需要参考特定编译器的文档。此外，`std::filesystem`提供了异常处理机制，因此在处理文件系统操作时，建议使用异常处理来捕获可能发生的错误。
 
-## 3.Boost.Filesystem 和 std:filesystem 在功能上有哪些主要区别?
+## 3.Boost.Filesystem 和 std::filesystem 在功能上有哪些主要区别?
 
 Boost.Filesystem 和 std::filesystem 都是 C++ 中用于文件系统操作的库，但它们之间存在一些差异：
 
@@ -164,7 +164,7 @@ Boost.Filesystem 和 std::filesystem 都是 C++ 中用于文件系统操作的�
 
 选择合适的方法取决于你的具体需求、技术栈以及对跨平台支持的要求。
 
-## 5.std:filesystem在处理文件系统错误时有哪些异常类型？
+## 5.std::filesystem在处理文件系统错误时有哪些异常类型？
 
 在 C++17 中，`std::filesystem` 命名空间定义了几种异常类型，用于在文件系统操作中处理错误。这些异常类型都源自 `std::filesystem::filesystem_error`，它本身继承自 `std::system_error`，最终继承自 `std::exception`。
 
@@ -223,7 +223,7 @@ int main() {
 
 请注意，为了确保代码的健壮性，你应该在可能抛出异常的文件系统操作周围使用 try-catch 块。
 
-## 6.如何使用std:filesystem进行文件的复制和移动操作？
+## 6.如何使用std::filesystem进行文件的复制和移动操作？
 
 在 C++17 中，`std::filesystem` 提供了简单直接的方法来执行文件的复制和移动操作。以下是如何使用 `std::filesystem` 进行这些操作的示例：
 
@@ -301,7 +301,7 @@ int main() {
 
 通过使用 `std::filesystem`，你可以以一种可移植的方式执行文件系统操作，而不必担心底层操作系统的差异。
 
-## 7.std:filesystem在跨平台的文件系统操作中有哪些限制或挑战？
+## 7.std::filesystem在跨平台的文件系统操作中有哪些限制或挑战？
 
 `std::filesystem` 是 C++17 标准中引入的，用于处理文件系统操作的库。它提供了跨平台的文件和目录操作功能，但确实存在一些限制和挑战：
 
